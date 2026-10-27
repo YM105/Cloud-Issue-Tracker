@@ -6,13 +6,5 @@
     "priority": "High",
     "status": "Open",
     "createdAt": "2026-09-01T09:00:00.000Z"
-  },
-  {
-    "id": "39987bbe-c06f-49d0-98d3-eb62148b9a6d",
-    "title": "Unable to access anything",
-    "description": "Connection fails in the world.",
-    "priority": "High",
-    "status": "Open",
-    "createdAt": "2026-10-20T11:59:26.980Z"
   }
 ]
